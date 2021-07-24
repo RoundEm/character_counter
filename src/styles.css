@@ -1,0 +1,24 @@
+* {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  height: 1.25em;
+}
+
+textarea {
+  padding: .5em;
+  margin-top: 1.5em;
+  text-align: left;
+}
